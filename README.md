@@ -11,7 +11,6 @@ I believe data science isn't just about algorithms - it's about impact. Whether 
 - **Saved a company $500K** by proving their marketing campaigns weren't working (through rigorous A/B testing)
 - **Increased customer walk-ins by 45%** by identifying the right promotional strategy during festive seasons  
 - **Cut reporting time by 40%** because analysts shouldn't spend their days copy-pasting data
-- **Predicted hospital readmissions with 94% accuracy**, helping healthcare providers identify at-risk patients early
 
 ### 🔍 What You'll Find Here
 My repositories showcase everything from healthcare prediction models to supply chain optimization dashboards. Each project tells a story of a problem solved, not just code written.
