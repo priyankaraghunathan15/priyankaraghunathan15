@@ -3,7 +3,7 @@ I turn messy data into **$36M business decisions**.
 Currently pursuing my MS in Data Science at Northeastern, I'm passionate about solving real-world problems through data. My work has helped companies optimize everything from marketing campaigns to customer experiences.
 
 ### 💡 What Drives Me
-I believe data science isn't just about algorithms - it's about impact. Whether I'm segmenting 30 million customers or building deep learning models for medical diagnosis, I focus on solutions that matter.
+I believe data science isn't just about algorithms, it's about impact. Whether I'm segmenting 30 million customers or building deep learning models for medical diagnosis, I focus on solutions that matter.
 
 ### 🎯 Professional Impact
 - **Generated $36M in incremental revenue** through ML-driven customer segmentation and personalized campaigns
