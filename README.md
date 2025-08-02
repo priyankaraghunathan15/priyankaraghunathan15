@@ -14,7 +14,7 @@ I believe data science isn't just about algorithms, it's about impact. Whether I
 
 ### 🚀 Featured Projects
 #### 🏥 **Healthcare AI**
-- **[Diabetic Retinopathy Detection](link)**: 74% accuracy using EfficientNetB3 with Grad-CAM visualizations for clinical interpretability
+- **[Diabetic Retinopathy Detection](https://github.com/priyankaraghunathan15/diabetic-retinopathy-detection)**: 74% accuracy using EfficientNetB3 with Grad-CAM visualizations for clinical interpretability
 - **Hospital Readmission Prediction**: ML solution analyzing 101K+ records to reduce readmissions
 
 #### 💰 **Financial Analytics**
