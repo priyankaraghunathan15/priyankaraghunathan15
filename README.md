@@ -18,19 +18,19 @@ I believe data science isn't just about algorithms, it's about impact. Whether I
 - **[Hospital Readmission Prediction](https://github.com/priyankaraghunathan15/hospital-readmission-prediction)**: ML solution analyzing 101K+ records to reduce readmissions
 
 #### 💰 **Financial Analytics**
-- **[Financial Chatbot BCG](link)**: Flask-based chatbot analyzing 10-K filings for Apple, Microsoft, and Tesla
-- **[Credit Risk Management](link)**: End-to-end ML pipeline for loan default prediction
-- **[Bank Loan Data Analysis](link)**: Comprehensive analysis of lending patterns and risk factors
+- **[Financial Chatbot BCG](https://github.com/priyankaraghunathan15/financial-chatbot-bcg)**: Flask-based chatbot analyzing 10-K filings for Apple, Microsoft, and Tesla
+- **[Credit Risk Management](https://github.com/priyankaraghunathan15/credit-risk-management)**: End-to-end ML pipeline for loan default prediction
+- **[Bank Loan Data Analysis](https://github.com/priyankaraghunathan15/bank-loan-data-analysis)**: Comprehensive analysis of lending patterns and risk factors
 
 #### 🌍 **Civic & Environmental Tech**
-- **[Chelsea Bridge Forecast](https://github.com/priyankaraghunathan15/financial-chatbot-bcg)**: 75% accurate ML model reducing traffic delays with 30-minute advance warnings
+- **[Chelsea Bridge Forecast]**: 75% accurate ML model reducing traffic delays with 30-minute advance warnings
 - **[Wildfire Detection CNN](https://github.com/priyankaraghunathan15/wildfire-detection-cnn)**: Computer vision model for early wildfire detection with interpretable AI
 - **[Boston 311 SQL Analysis](https://github.com/priyankaraghunathan15/boston-311-sql-case-study)**: Advanced SQL case study optimizing city service responses
 
 #### 📊 **Business Intelligence**
 - **[Market Expansion Analysis](https://github.com/priyankaraghunathan15/lugg-market-expansion-analysis)**: Identified $1.48M opportunities across 164 competition-free cities for Lugg
-- **[Supply Chain Analytics]()**: Optimization models for inventory and logistics management
-- **[TataIQ Retail Analytics](link)**: Tableau dashboards delivering C-suite insights
+- **[Supply Chain Analytics](https://github.com/priyankaraghunathan15/supply-chain-analytics)**: Optimization models for inventory and logistics management
+- **[TataIQ Retail Analytics](https://github.com/priyankaraghunathan15/tataiq-retail-analytics)**: Tableau dashboards delivering C-suite insights
 
 ### 🛠️ Tech Stack
 **Languages**: Python, SQL, R, JavaScript  
