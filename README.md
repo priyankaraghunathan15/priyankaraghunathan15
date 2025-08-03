@@ -23,7 +23,7 @@ I believe data science isn't just about algorithms, it's about impact. Whether I
 - **[Bank Loan Data Analysis](https://github.com/priyankaraghunathan15/bank-loan-data-analysis)**: Comprehensive analysis of lending patterns and risk factors
 
 #### 🌍 **Civic & Environmental Tech**
-- **[Chelsea Bridge Forecast]**: 75% accurate ML model reducing traffic delays with 30-minute advance warnings
+- **Chelsea Bridge Forecast**: 75% accurate ML model reducing traffic delays with 30-minute advance warnings
 - **[Wildfire Detection CNN](https://github.com/priyankaraghunathan15/wildfire-detection-cnn)**: Computer vision model for early wildfire detection with interpretable AI
 - **[Boston 311 SQL Analysis](https://github.com/priyankaraghunathan15/boston-311-sql-case-study)**: Advanced SQL case study optimizing city service responses
 
