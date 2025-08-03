@@ -15,7 +15,7 @@ I believe data science isn't just about algorithms, it's about impact. Whether I
 ### 🚀 Featured Projects
 #### 🏥 **Healthcare AI**
 - **[Diabetic Retinopathy Detection](https://github.com/priyankaraghunathan15/diabetic-retinopathy-detection)**: 74% accuracy using EfficientNetB3 with Grad-CAM visualizations for clinical interpretability
-- **Hospital Readmission Prediction**: ML solution analyzing 101K+ records to reduce readmissions
+- **[Hospital Readmission Prediction](https://github.com/priyankaraghunathan15/hospital-readmission-prediction)**: ML solution analyzing 101K+ records to reduce readmissions
 
 #### 💰 **Financial Analytics**
 - **[Financial Chatbot BCG](link)**: Flask-based chatbot analyzing 10-K filings for Apple, Microsoft, and Tesla
@@ -23,13 +23,13 @@ I believe data science isn't just about algorithms, it's about impact. Whether I
 - **[Bank Loan Data Analysis](link)**: Comprehensive analysis of lending patterns and risk factors
 
 #### 🌍 **Civic & Environmental Tech**
-- **[Chelsea Bridge Forecast](link)**: 75% accurate ML model reducing traffic delays with 30-minute advance warnings
-- **[Wildfire Detection CNN](link)**: Computer vision model for early wildfire detection with interpretable AI
-- **[Boston 311 SQL Analysis](link)**: Advanced SQL case study optimizing city service responses
+- **[Chelsea Bridge Forecast](https://github.com/priyankaraghunathan15/financial-chatbot-bcg)**: 75% accurate ML model reducing traffic delays with 30-minute advance warnings
+- **[Wildfire Detection CNN](https://github.com/priyankaraghunathan15/wildfire-detection-cnn)**: Computer vision model for early wildfire detection with interpretable AI
+- **[Boston 311 SQL Analysis](https://github.com/priyankaraghunathan15/boston-311-sql-case-study)**: Advanced SQL case study optimizing city service responses
 
 #### 📊 **Business Intelligence**
-- **[Market Expansion Analysis](link)**: Identified $1.48M opportunities across 164 competition-free cities for Lugg
-- **[Supply Chain Analytics](link)**: Optimization models for inventory and logistics management
+- **[Market Expansion Analysis](https://github.com/priyankaraghunathan15/lugg-market-expansion-analysis)**: Identified $1.48M opportunities across 164 competition-free cities for Lugg
+- **[Supply Chain Analytics]()**: Optimization models for inventory and logistics management
 - **[TataIQ Retail Analytics](link)**: Tableau dashboards delivering C-suite insights
 
 ### 🛠️ Tech Stack
