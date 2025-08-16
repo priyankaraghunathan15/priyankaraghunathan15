@@ -46,8 +46,4 @@ I'm a Microsoft-certified Power BI analyst who believes in democratizing data in
 
 ## Connect With Me
 📫 **Let's connect! I'm always excited to discuss data science, career opportunities, or that tricky pandas function:**  
-[Email](mailto:raghunathan.p@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/priyankaraghu15/) | [Portfolio](https://priyanka-raghunathan.netlify.app/)`;
-
-a.click();
-document.body.removeChild(a);
-URL.revokeObjectURL(url);
+[Email](mailto:raghunathan.p@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/priyankaraghu15/) | [Portfolio](https://priyanka-raghunathan.netlify.app/)
