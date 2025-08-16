@@ -14,20 +14,20 @@ I believe data science isn't just about algorithms, it's about impact. Whether I
 ## Featured Projects
 
 ### Healthcare AI
-* **Diabetic Retinopathy Detection**: 74% accuracy using EfficientNetB3 with Grad-CAM visualizations for clinical interpretability
-* **Hospital Readmission Prediction**: ML solution analyzing 101K+ records to reduce readmissions
+* **[Diabetic Retinopathy Detection](https://github.com/priyankaraghunathan15/diabetic-retinopathy-detection)**: 74% accuracy using EfficientNetB3 with Grad-CAM visualizations for clinical interpretability
+* **[Hospital Readmission Prediction](https://github.com/priyankaraghunathan15/hospital-readmission-prediction)**: ML solution analyzing 101K+ records to reduce readmissions
 
 ### Financial Analytics
-* **Financial Chatbot BCG**: Flask-based chatbot analyzing 10-K filings for Apple, Microsoft, and Tesla
-* **Credit Risk Management**: End-to-end ML pipeline for loan default prediction
+* **[Financial Chatbot BCG](https://github.com/priyankaraghunathan15/financial-chatbot-bcg)**: Flask-based chatbot analyzing 10-K filings for Apple, Microsoft, and Tesla
+* **[Credit Risk Management](https://github.com/priyankaraghunathan15/credit-risk-management)**: End-to-end ML pipeline for loan default prediction
 
 ### Civic & Environmental Tech
-* **Wildfire Detection CNN**: Computer vision model for early wildfire detection with interpretable AI
-* **Boston 311 SQL Analysis**: Advanced SQL case study optimizing city service responses
+* **[Wildfire Detection CNN](https://github.com/priyankaraghunathan15/wildfire-detection-cnn)**: Computer vision model for early wildfire detection with interpretable AI
+* **[Boston 311 SQL Analysis](https://github.com/priyankaraghunathan15/boston-311-sql-case-study)**: Advanced SQL case study optimizing city service responses
 
 ### Business Intelligence
-* **Market Expansion Analysis**: Identified $1.48M opportunities across 164 competition-free cities for Lugg
-* **TataIQ Retail Analytics**: Tableau dashboards delivering C-suite insights
+* **[Market Expansion Analysis](https://github.com/priyankaraghunathan15/lugg-market-expansion-analysis)**: Identified $1.48M opportunities across 164 competition-free cities for Lugg
+* **[TataIQ Retail Analytics](https://github.com/priyankaraghunathan15/tataiq-retail-analytics)**: Tableau dashboards delivering C-suite insights
 
 ## Tech Stack
 **Languages**: Python, SQL, R, JavaScript  
@@ -46,4 +46,8 @@ I'm a Microsoft-certified Power BI analyst who believes in democratizing data in
 
 ## Connect With Me
 📫 **Let's connect! I'm always excited to discuss data science, career opportunities, or that tricky pandas function:**  
-Email | LinkedIn | Portfolio
+[Email](mailto:raghunathan.p@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/priyankaraghu15/) | [Portfolio](https://priyanka-raghunathan.netlify.app/)`;
+
+a.click();
+document.body.removeChild(a);
+URL.revokeObjectURL(url);
